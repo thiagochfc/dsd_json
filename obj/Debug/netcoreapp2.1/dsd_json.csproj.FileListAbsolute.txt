@@ -1,0 +1,11 @@
+C:\Users\thiag\Desktop\dsd_json\bin\Debug\netcoreapp2.1\dsd_json.deps.json
+C:\Users\thiag\Desktop\dsd_json\bin\Debug\netcoreapp2.1\dsd_json.runtimeconfig.json
+C:\Users\thiag\Desktop\dsd_json\bin\Debug\netcoreapp2.1\dsd_json.runtimeconfig.dev.json
+C:\Users\thiag\Desktop\dsd_json\bin\Debug\netcoreapp2.1\dsd_json.dll
+C:\Users\thiag\Desktop\dsd_json\obj\Debug\netcoreapp2.1\dsd_json.csprojAssemblyReference.cache
+C:\Users\thiag\Desktop\dsd_json\obj\Debug\netcoreapp2.1\dsd_json.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\dsd_json\obj\Debug\netcoreapp2.1\dsd_json.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\dsd_json\obj\Debug\netcoreapp2.1\dsd_json.AssemblyInfo.cs
+C:\Users\thiag\Desktop\dsd_json\bin\Debug\netcoreapp2.1\dsd_json.pdb
+C:\Users\thiag\Desktop\dsd_json\obj\Debug\netcoreapp2.1\dsd_json.dll
+C:\Users\thiag\Desktop\dsd_json\obj\Debug\netcoreapp2.1\dsd_json.pdb
